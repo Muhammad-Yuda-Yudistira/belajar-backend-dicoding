@@ -1,0 +1,14 @@
+{
+  "name": "latihantesting",
+  "version": "1.0.0",
+  "description": "Latihan testing di IDcamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "yudistira",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.2"
+  }
+}
